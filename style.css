@@ -1,0 +1,45 @@
+body {
+    background-color: #ffedda !important;
+    padding-top: 70px;
+}
+
+nav {
+    background-color: #8adaff !important;
+}
+
+.active{
+    border-radius:15px;
+    background-color: #249cff;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+#sudoku {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sudoku tr, td {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.thick-top {
+    border-top: 4px solid black;
+}
+
+.thick-left {
+    border-left: 4px solid black;
+}
+
+.thick-right {
+    border-right: 4px solid black;
+}
+
+.thick-bottom {
+    border-bottom: 4px solid black;
+}
